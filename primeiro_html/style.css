@@ -1,0 +1,17 @@
+p {
+    font-family:"Times New Roman";
+    color: gray;
+    font: 50px;
+    }
+    
+    head {
+     font-family: sans-serif;
+     color: black;
+     font: 90px;
+    }
+    
+    title{
+        font-family: sans-serif;
+        color: red;
+        font: 90px;  
+    }
